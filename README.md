@@ -2,7 +2,7 @@
 
 **AI-powered IT Help Desk Ticketing System** — built as a portfolio project to demonstrate real-world ITSM knowledge, modern JavaScript, and Claude AI integration.
 
-> 🎬 **[Live Demo →](https://your-username.github.io/techdesk-pro)** &nbsp;|&nbsp; Built by **Chris Lytton** &nbsp;|&nbsp; Olathe, KS
+> 🎬 **[Live Demo →](https://snekyninja.github.io/techdesk-pro/)** &nbsp;|&nbsp; Built by **Chris Lytton** &nbsp;|&nbsp; Olathe, KS
 
 ---
 
@@ -139,7 +139,7 @@ Built over multiple sessions as a portfolio piece while transitioning from resta
 
 **Chris Lytton** — Olathe, KS  
 Google IT Support Professional Certificate | CompTIA Network+ (in progress)  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/chris-lytton/) · [GitHub](https://github.com/snekyninja)
 
 ---
 
