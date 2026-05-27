@@ -70,6 +70,7 @@ This project was built to demonstrate:
 ---
 
 ## Screenshots
+<img width="1862" height="888" alt="image" src="https://github.com/user-attachments/assets/0769826b-7e5b-4b72-841a-3fc587d3a401" />
 
 > *(Add screenshots here after deploying to GitHub Pages)*
 
